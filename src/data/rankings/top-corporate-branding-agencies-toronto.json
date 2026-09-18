@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. budget (USD)",
+    "Focus",
+    "Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Toronto; Chicago; San Francisco; Miami",
+        "$10,000+",
+        "Brand strategy, corporate identity, website delivery.",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada; Chicago, San Francisco and Miami, USA | <strong>Est. 2018</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Safeway (Albertsons), FHN Financial, Flipp, Roncelli and TeraWulf."
+      ]
+    },
+    {
+      "id": "agency-strano-pettigrew-design-associates",
+      "name": "Strano + Pettigrew Design Associates",
+      "heading": "2. Strano + Pettigrew Design Associates",
+      "cells": [
+        "2",
+        "Strano + Pettigrew Design Associates",
+        "2004",
+        "Toronto",
+        "$25,000+",
+        "Strategic positioning, corporate identity, packaging.",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada | <strong>Est. 2004</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Goway Travel, Second Cup Coffee Co., Momentum Solutions, ZoneTV and The Walper Hotel."
+      ]
+    },
+    {
+      "id": "agency-takt",
+      "name": "Takt",
+      "heading": "3. Takt",
+      "cells": [
+        "3",
+        "Takt",
+        "2012",
+        "Vancouver; Toronto; New York",
+        "$25,000+",
+        "Brand strategy, identity, digital experiences.",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 Vancouver and Toronto, Canada; New York, USA | <strong>Est. 2012</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.7/5</strong>* (Vancouver) | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> NHL Players’ Association, NYU Skirball, Adler University, Primasun and IGNITE Student Union."
+      ]
+    },
+    {
+      "id": "agency-colette",
+      "name": "Colette",
+      "heading": "4. Colette",
+      "cells": [
+        "4",
+        "Colette",
+        "2017",
+        "Toronto",
+        "$10,000+ agency minimum; branding packages from $25,000",
+        "Positioning, brand narratives, visual identity.",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada | <strong>Est. 2017</strong> | <strong>Budget: $10,000+ agency minimum; branding packages from $25,000</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Clearspeed, Geneseeq, MCAN Financial and the University of Toronto’s Daniels Faculty."
+      ]
+    },
+    {
+      "id": "agency-yield-branding",
+      "name": "Yield Branding",
+      "heading": "5. Yield Branding",
+      "cells": [
+        "5",
+        "Yield Branding",
+        "1989",
+        "Toronto; Kelowna",
+        "$25,000+",
+        "Research-led positioning, corporate branding, communications.",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 Toronto and Kelowna, Canada | <strong>Est. 1989</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.7/5</strong> | Google: <strong>3.7/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Porsche, Equifax, Ontario Medical Association, Shift Health and Consulting Haus."
+      ]
+    },
+    {
+      "id": "agency-jacknife",
+      "name": "Jacknife",
+      "heading": "6. Jacknife",
+      "cells": [
+        "6",
+        "Jacknife",
+        "2013",
+        "Toronto",
+        "$10,000+",
+        "Brand identity, packaging, branded environments.",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada | <strong>Est. 2013</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.7/5</strong>* | DesignRush: <strong>4.2/5</strong>.",
+        "<strong>Clients:</strong> Nike, Nescafé, Red Bull, SickKids and Hudson’s Bay."
+      ]
+    },
+    {
+      "id": "agency-bruce-mau-design",
+      "name": "Bruce Mau Design",
+      "heading": "7. Bruce Mau Design",
+      "cells": [
+        "7",
+        "Bruce Mau Design",
+        "1985",
+        "Toronto; New York",
+        "Undisclosed",
+        "Organizational positioning, identity systems, environmental design.",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada; New York, USA | <strong>Est. 1985</strong> | <strong>Budget: Undisclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Toronto Pearson Airport, The National Ballet of Canada, Royal Winnipeg Ballet, McMichael and Zayed National Museum."
+      ]
+    },
+    {
+      "id": "agency-brandbourg-marketing-design",
+      "name": "BrandBourg Marketing & Design",
+      "heading": "8. BrandBourg Marketing & Design",
+      "cells": [
+        "8",
+        "BrandBourg Marketing & Design",
+        "2014",
+        "Montréal; Toronto",
+        "$75,000+",
+        "Corporate positioning, brand architecture, merger-related rebranding.",
+        "8.4/10"
+      ],
+      "facts": [
+        "📍 Montréal and Toronto, Canada | <strong>Est. 2014</strong> | <strong>Budget: $75,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>3.5/5</strong> | Google: <strong>5.0/5</strong>* (Montréal) | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Collabria, Mila, Lavery, Lactantia and CellCarta."
+      ]
+    },
+    {
+      "id": "agency-rayvn-design",
+      "name": "Rayvn Design",
+      "heading": "9. Rayvn Design",
+      "cells": [
+        "9",
+        "Rayvn Design",
+        "2018",
+        "Toronto",
+        "$20,000+ startup identity; $30,000 service-business rebrand",
+        "Premium positioning, messaging, visual identity.",
+        "8.3/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada | <strong>Est. 2018</strong> | <strong>Budget: $20,000+ for startup service identities; $30,000 for service-business rebrands</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Dynamis Capital, Benetone Films, Vretta, Angostura and CEFINCO."
+      ]
+    },
+    {
+      "id": "agency-sagi-co-inc",
+      "name": "Sagi&Co Inc.",
+      "heading": "10. Sagi&Co Inc.",
+      "cells": [
+        "10",
+        "Sagi&Co Inc.",
+        "2012",
+        "Toronto; Tel Aviv",
+        "$1,000+ agency minimum",
+        "Brand strategy, corporate positioning, go-to-market planning.",
+        "8.2/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada; Tel Aviv, Israel | <strong>Est. 2012</strong> | <strong>Budget: $1,000+ agency minimum</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Meta, Mobileye, UPRIGHT GO, UVeye and Laufer Group."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Your situation</strong>",
+      "<strong>Best-fit agency</strong>",
+      "<strong>Why it belongs on your shortlist</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best overall pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its combination of strategic branding, website delivery, published entry budget and strong platform ratings gives it the highest editorial fit score in this guide."
+      ],
+      [
+        "<strong>Corporate rebrand and website launch together</strong>",
+        "<strong>Brand Vision or Takt</strong>",
+        "Both connect identity work with website design and development, making them relevant when the brand and digital experience need to change together."
+      ],
+      [
+        "<strong>Merger, acquisition or complex brand architecture</strong>",
+        "<strong>BrandBourg</strong>",
+        "Its stated focus and CellCarta project directly address corporate transitions and the need for a unified identity."
+      ],
+      [
+        "<strong>Institutional transformation with physical applications</strong>",
+        "<strong>Bruce Mau Design</strong>",
+        "Its portfolio and multidisciplinary positioning make it relevant to organizations whose identities must work across communications and environments."
+      ]
+    ]
+  }
+}

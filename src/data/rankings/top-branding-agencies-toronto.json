@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. budget",
+    "Focus",
+    "Estimated score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Toronto, Canada; Chicago, San Francisco and Miami, USA",
+        "$10,000+",
+        "Brand strategy, visual identity, website design and development.",
+        "9.4/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada; Chicago, San Francisco and Miami, USA | Est. 2018 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Safeway, Flipp, FHN Financial, TeraWulf, Roncelli."
+      ]
+    },
+    {
+      "id": "agency-biography-design",
+      "name": "Biography Design",
+      "heading": "2. Biography Design",
+      "cells": [
+        "2",
+        "Biography Design",
+        "1998",
+        "Toronto, Canada",
+        "Not verified",
+        "Hospitality branding, visual storytelling, identity and branded environments.",
+        "9.2/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 1998 | Budget: Not verified</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not verified</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Patria, Byblos, El Catrin, Cluny, Marben."
+      ]
+    },
+    {
+      "id": "agency-blok-design",
+      "name": "Blok Design",
+      "heading": "3. Blok Design",
+      "cells": [
+        "3",
+        "Blok Design",
+        "1998",
+        "Toronto, Canada",
+        "Undisclosed",
+        "Brand identity, packaging, editorial, digital and environmental design.",
+        "9.1/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 1998 | Budget: Undisclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Museum of Contemporary Art Toronto, TIFF, The Royal Hotel, The Broadview Hotel, Summerhill Market."
+      ]
+    },
+    {
+      "id": "agency-bruce-mau-design",
+      "name": "Bruce Mau Design",
+      "heading": "4. Bruce Mau Design",
+      "cells": [
+        "4",
+        "Bruce Mau Design",
+        "1985",
+        "Toronto, Canada",
+        "Undisclosed",
+        "Brand positioning, identity, digital experiences and branded environments.",
+        "9.0/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 1985 | Budget: Undisclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Adidas, ASICS, Audi, Art Gallery of Ontario, Harvard University."
+      ]
+    },
+    {
+      "id": "agency-colette",
+      "name": "Colette",
+      "heading": "5. Colette",
+      "cells": [
+        "5",
+        "Colette",
+        "2017",
+        "Toronto, Canada",
+        "$10,000+",
+        "Brand strategy, positioning, naming, identity and rebranding.",
+        "8.9/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 2017 | Budget: $10,000+; branding packages from $25,000</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> University of Toronto, MCAN Financial, Geneseeq, Victim Services Toronto."
+      ]
+    },
+    {
+      "id": "agency-concrete",
+      "name": "Concrete",
+      "heading": "6. Concrete",
+      "cells": [
+        "6",
+        "Concrete",
+        "1988",
+        "Toronto, Canada",
+        "$50,000+",
+        "Consumer branding, visual identity, packaging and creative campaigns.",
+        "8.8/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 1988 | Budget: $50,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Aritzia, Canada Goose, lululemon, beautyblender, Moroccanoil."
+      ]
+    },
+    {
+      "id": "agency-jacknife",
+      "name": "Jacknife",
+      "heading": "7. Jacknife",
+      "cells": [
+        "7",
+        "Jacknife",
+        "2013",
+        "Toronto, Canada",
+        "$10,000+",
+        "Brand strategy, identity, packaging and physical brand experiences.",
+        "8.7/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 2013 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.7/5</strong>* | DesignRush: <strong>4.2/5</strong>.",
+        "<strong>Clients:</strong> Nike, Red Bull, Second Cup, Ontario Lottery and Gaming Corporation (OLG)."
+      ]
+    },
+    {
+      "id": "agency-jump-branding-design",
+      "name": "Jump Branding & Design",
+      "heading": "8. Jump Branding & Design",
+      "cells": [
+        "8",
+        "Jump Branding & Design",
+        "2004",
+        "Toronto, Canada",
+        "$10,000+",
+        "Restaurant and retail branding, packaging and branded spaces.",
+        "8.6/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Canada | Est. 2004 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Swiss Chalet, Wild Wing, Yogen Früz, Sobeys, St. Louis Bar &amp; Grill."
+      ]
+    },
+    {
+      "id": "agency-lg2",
+      "name": "LG2",
+      "heading": "9. LG2",
+      "cells": [
+        "9",
+        "LG2",
+        "1991",
+        "Toronto, Montréal and Québec City, Canada",
+        "Undisclosed",
+        "Branding, advertising, packaging, digital experiences and architecture.",
+        "8.5/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto, Montréal and Québec City, Canada | Est. 1991 | Budget: Undisclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>4.3/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Bell, Hydro-Québec, Keurig Dr Pepper, LCBO, Ubisoft."
+      ]
+    },
+    {
+      "id": "agency-pigeon-brands",
+      "name": "Pigeon Brands",
+      "heading": "10. Pigeon Brands",
+      "cells": [
+        "10",
+        "Pigeon Brands",
+        "1977",
+        "Toronto and Montréal, Canada",
+        "Undisclosed",
+        "Brand strategy, packaging, consumer branding and shopper marketing.",
+        "8.4/10"
+      ],
+      "facts": [
+        "<strong>📍 Toronto and Montréal, Canada | Est. 1977 | Budget: Undisclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not rated</strong> | Google: <strong>3.7/5</strong>* | DesignRush: <strong>Not rated</strong>.",
+        "<strong>Clients:</strong> Danone, IKEA, Hershey, Perdue Farms, Metro."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Buyer situation</strong>",
+      "<strong>Agency match</strong>",
+      "<strong>Why it fits</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best overall pick for combined branding and website work</strong>",
+        "<strong>Brand Vision</strong>",
+        "Combines a published starting budget, strong review scores and documented brand-to-website execution."
+      ],
+      [
+        "<strong>An established business needs its new identity and website to launch together</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its portfolio includes coordinated branding and website engagements, including Roncelli."
+      ],
+      [
+        "<strong>A university or cultural institution is undertaking a broad brand transformation</strong>",
+        "<strong>Bruce Mau Design</strong>",
+        "Relevant institutional client history and capabilities spanning identity, digital design and branded environments."
+      ],
+      [
+        "<strong>A restaurant group needs a consistent identity across locations</strong>",
+        "<strong>Jump Branding &amp; Design</strong>",
+        "Its Swiss Chalet work demonstrates branding applied to menus, signage and different restaurant formats."
+      ]
+    ]
+  }
+}
