@@ -1,0 +1,13 @@
+{
+  "site": "topbrandingagenciestoronto",
+  "url": "https://topbrandingagenciestoronto-staging.hamoun-ce6.workers.dev",
+  "commit": "40fc4e5760714c0dc68b76406a19c74f71fa7546",
+  "checks": [
+    "Unauthenticated pages, assets, and build metadata are protected",
+    "5 authenticated pages available with noindex",
+    "Login name is enforced server-side for comments and replies",
+    "Independent sessions read the same persisted thread",
+    "Page and branch isolation remains enforced",
+    "QA thread resolved after verification"
+  ]
+}
