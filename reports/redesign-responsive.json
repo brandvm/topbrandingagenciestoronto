@@ -1,0 +1,230 @@
+{
+  "checks": [
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/",
+      "targetWidth": 320,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/",
+      "targetWidth": 320,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-branding-agencies-toronto/",
+      "targetWidth": 320,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-logo-design-agencies-toronto/",
+      "targetWidth": 320,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-corporate-branding-agencies-toronto/",
+      "targetWidth": 320,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/",
+      "targetWidth": 390,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/",
+      "targetWidth": 390,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-branding-agencies-toronto/",
+      "targetWidth": 390,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-logo-design-agencies-toronto/",
+      "targetWidth": 390,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-corporate-branding-agencies-toronto/",
+      "targetWidth": 390,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/",
+      "targetWidth": 768,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/",
+      "targetWidth": 768,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-branding-agencies-toronto/",
+      "targetWidth": 768,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-logo-design-agencies-toronto/",
+      "targetWidth": 768,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-corporate-branding-agencies-toronto/",
+      "targetWidth": 768,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/",
+      "targetWidth": 1024,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1024,
+      "width": 1024
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/",
+      "targetWidth": 1024,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1024,
+      "width": 1024
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-branding-agencies-toronto/",
+      "targetWidth": 1024,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1024,
+      "width": 1024
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-logo-design-agencies-toronto/",
+      "targetWidth": 1024,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1024,
+      "width": 1024
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-corporate-branding-agencies-toronto/",
+      "targetWidth": 1024,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1024,
+      "width": 1024
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/",
+      "targetWidth": 1440,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/",
+      "targetWidth": 1440,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-branding-agencies-toronto/",
+      "targetWidth": 1440,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-logo-design-agencies-toronto/",
+      "targetWidth": 1440,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "site": "topbrandingagenciestoronto",
+      "path": "/blog/top-corporate-branding-agencies-toronto/",
+      "targetWidth": 1440,
+      "brokenImages": [],
+      "overflow": false,
+      "scroll": 1440,
+      "width": 1440
+    }
+  ],
+  "method": "Browser-rendered DOM checks at five widths; separate visual inspection of home, listing, and article templates."
+}

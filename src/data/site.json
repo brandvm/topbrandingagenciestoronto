@@ -3,17 +3,39 @@
   "masthead": "Toronto\nBrand Review",
   "name": "Top Branding Agencies Toronto",
   "eyebrow": "PERSPECTIVES ON TORONTO BRANDING",
-  "headline": "A new identity.\nA different\nperspective.",
+  "headline": "A city of ideas.A brand of your own.",
   "intro": "Explore the people shaping brands in Toronto. From a first logo to a corporate transformation, find a partner whose strengths match your next move.",
-  "accent": "#633764",
-  "bg": "#f8f3ed",
-  "ink": "#322336",
-  "muted": "#6d586b",
-  "line": "#d9ccd4",
-  "display": "newsreader",
-  "body": "instrument-sans",
-  "style": "magazine",
+  "accent": "#693da3",
+  "bg": "#fdfcfe",
+  "ink": "#2e203c",
+  "muted": "#6b5b79",
+  "line": "#ded5e8",
+  "display": "instrument-sans",
+  "body": "dm-sans",
+  "style": "toronto",
   "description": "Explore Toronto branding, logo design, and corporate branding agencies through detailed comparisons and practical guides.",
   "domain": "topbrandingagenciestoronto.ca",
-  "repo": "topbrandingagenciestoronto"
+  "repo": "topbrandingagenciestoronto",
+  "homeArticle": "top-branding-agencies-toronto",
+  "brief": "A closer look at the teams shaping Toronto\u2019s brands.",
+  "direction": "Toronto\u2019s brand partner index",
+  "navigation": [
+    {
+      "slug": "top-branding-agencies-toronto",
+      "label": "Branding"
+    },
+    {
+      "slug": "top-logo-design-agencies-toronto",
+      "label": "Logo design"
+    },
+    {
+      "slug": "top-corporate-branding-agencies-toronto",
+      "label": "Corporate branding"
+    }
+  ],
+  "articlePaths": {
+    "top-branding-agencies-toronto": "/",
+    "top-logo-design-agencies-toronto": "/logo-design/",
+    "top-corporate-branding-agencies-toronto": "/corporate/"
+  }
 }

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "agency-brand-vision",
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/our-work-portfolio",
+    "source": "https://cdn.prod.website-files.com/68b9f0236581de795cba8ec2/6a959f61b4c30e1af77118f3_Favicon.png",
+    "file": "agency-brand-vision.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "96a3a9580ea963730809e89fa1d874f60e96d89ba71dcd4555699a7c2dae9a13"
+  },
+  {
+    "id": "agency-blok-design",
+    "name": "Blok Design",
+    "url": "https://blokdesign.com/",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-biography-design",
+    "name": "Biography Design",
+    "url": "https://biographydesign.com/",
+    "source": "data:image/svg+xml,%3csvg%20width='48'%20height='48'%20viewBox='0%200%2048%2048'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='48'%20height='48'%20fill='%23E6E6E6'%20style='fill:%23E6E6E6;fill:color(display-p3%200.9020%200.9020%200.9020);fill-opacity:1;'/%3e%3cpath%20opacity='0.4'%20d='M33.1668%2027.4593C33.1668%2029.2748%2032.7944%2030.8749%2032.0496%2032.2598C31.3048%2033.633%2030.304%2034.7036%2029.0471%2035.4717C27.8019%2036.2397%2026.3996%2036.6238%2024.8402%2036.6238C23.6765%2036.6238%2022.6466%2036.391%2021.7505%2035.9255C20.8544%2035.46%2020.1794%2034.8898%2019.7256%2034.2148L17.9974%2036.2747H16.9152V13.7563C16.9152%2013.2792%2016.8453%2012.9592%2016.7057%2012.7963C16.5777%2012.6217%2016.2693%2012.4646%2015.7805%2012.3249L14.5062%2011.9933V11.0681L20.3016%2010.3699V21.6814C20.7788%2020.7853%2021.541%2020.058%2022.5884%2019.4994C23.6357%2018.9408%2024.7878%2018.6615%2026.0447%2018.6615C27.3015%2018.6615%2028.4711%2019.0106%2029.5533%2019.7089C30.6356%2020.3955%2031.5084%2021.3963%2032.1718%2022.7113C32.8351%2024.0263%2033.1668%2025.609%2033.1668%2027.4593ZM29.6232%2027.8085C29.6232%2026.3305%2029.4021%2025.0562%2028.9598%2023.9856C28.5176%2022.915%2027.9008%2022.0887%2027.1095%2021.5068C26.3182%2020.925%2025.3988%2020.634%2024.3514%2020.634C23.4321%2020.634%2022.6175%2020.8202%2021.9076%2021.1926C21.2094%2021.5534%2020.674%2022.0712%2020.3016%2022.7462V33.1849C20.6158%2033.697%2021.1046%2034.145%2021.7679%2034.5291C22.4313%2034.9131%2023.2226%2035.1051%2024.142%2035.1051C25.2242%2035.1051%2026.1727%2034.8083%2026.9873%2034.2148C27.8136%2033.6213%2028.4594%2032.7776%2028.9249%2031.6837C29.3904%2030.5898%2029.6232%2029.2981%2029.6232%2027.8085Z'%20fill='black'%20style='fill:black;fill-opacity:1;'/%3e%3c/svg%3e",
+    "file": "agency-biography-design.webp",
+    "width": 48,
+    "height": 48,
+    "sha256": "87907beb6bdc0283cbdd4bc9a30488f5140e31535bdf416a4673630c92effd37"
+  },
+  {
+    "id": "agency-bruce-mau-design",
+    "name": "Bruce Mau Design",
+    "url": "https://www.brucemaudesign.com/work",
+    "source": "https://www.brucemaudesign.com/wp-content/themes/bmd/assets/img/favicon/favicon-196x196.png",
+    "file": "agency-bruce-mau-design.webp",
+    "width": 196,
+    "height": 196,
+    "sha256": "78e45e3c132fb2bddc63d25dadac14288ba603dc4ef870e230e6e92d6b822be5"
+  },
+  {
+    "id": "agency-colette",
+    "name": "Colette",
+    "url": "https://wearecolette.com/work/",
+    "source": "https://wearecolette.com/wp-content/uploads/2025/12/cropped-favicon-96x96-1-192x192.png",
+    "file": "agency-colette.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "f5a6ab39d97aa34c52ff9a16fbb0bf34f44a7a87537ebbe8fa91b5b11931826c"
+  },
+  {
+    "id": "agency-concrete",
+    "name": "Concrete",
+    "url": "https://concrete.ca/",
+    "source": "https://concrete.ca/apple-touch-icon.png",
+    "file": "agency-concrete.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "271f19e10291c8e2d3de267e3f1956e470c26c7a618647453ad58b662988fcdd"
+  },
+  {
+    "id": "agency-pigeon-brands",
+    "name": "Pigeon Brands",
+    "url": "https://www.pigeonbrands.com/work/",
+    "source": "https://www.pigeonbrands.com/wp-content/themes/pigeon/assets/favicon/apple-touch-icon.png",
+    "file": "agency-pigeon-brands.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "bc3274f38420c00ed835d5ed9a01023345cce400d075a4923de801941608f455"
+  },
+  {
+    "id": "agency-jump-branding-design",
+    "name": "Jump Branding & Design",
+    "url": "https://www.howhigh.ca/our-work",
+    "source": "https://irp.cdn-website.com/7d750e30/dms3rep/multi/favicon-300x300+%281%29.png",
+    "file": "agency-jump-branding-design.webp",
+    "width": 300,
+    "height": 300,
+    "sha256": "98012e2c3c852dbd0e914249d886055bfedf778db565b8136acc01d052bc68ba"
+  },
+  {
+    "id": "agency-takt",
+    "name": "Takt",
+    "url": "https://takt.com/our-work/",
+    "source": "https://takt.com/wp-content/uploads/2024/02/a-black-geometric-shape-on-a-white-background-composed-of-two-connected-rectangles-forming-an-l-shape.-the-top-rectangle-is-oriented-horizontally-and-the-bottom-rectangle-is-vertical-300x300.png",
+    "file": "agency-takt.webp",
+    "width": 300,
+    "height": 300,
+    "sha256": "280747da8e57440719e557559adad49f22f8534449dcfbbf41ee85e5f4fb80e2"
+  },
+  {
+    "id": "agency-jacknife",
+    "name": "Jacknife",
+    "url": "https://jacknife.ca/work",
+    "source": "https://jacknife.ca/wp-content/themes/jacknife/assets/img/favicon/favicon-196x196.png",
+    "file": "agency-jacknife.webp",
+    "width": 196,
+    "height": 196,
+    "sha256": "c9cf23177846ac520742650688ec9842a45e9944cc9b20bba7e7c1068ffe8395"
+  },
+  {
+    "id": "agency-lg2",
+    "name": "LG2",
+    "url": "https://lg2.com/en/our-work",
+    "source": "https://lg2.com/dist/static/favicon/favicon-196x196.png",
+    "file": "agency-lg2.webp",
+    "width": 196,
+    "height": 196,
+    "sha256": "e43a729dd18f6683af1b9190b4659bc80acdca052f20b9d47c93c4652521450f"
+  },
+  {
+    "id": "agency-brandbourg-marketing-design",
+    "name": "BrandBourg Marketing & Design",
+    "url": "https://www.brandbourg.world/portfolio",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-strano-pettigrew-design-associates",
+    "name": "Strano + Pettigrew Design Associates",
+    "url": "https://www.stranoandpettigrew.com/work/",
+    "source": "https://www.stranoandpettigrew.com/wp-content/uploads/2021/04/cropped-SPDA-Favicon-192x192.jpg",
+    "file": "agency-strano-pettigrew-design-associates.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "9390106225557d32e84cba9ccc180e378c1dd5f25f105b73b4591370eba98802"
+  },
+  {
+    "id": "agency-yield-branding",
+    "name": "Yield Branding",
+    "url": "https://www.yieldbranding.com/our-work/",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-rayvn-design",
+    "name": "Rayvn Design",
+    "url": "https://www.rayvn.io/",
+    "source": "https://static.wixstatic.com/media/4c345c_c38e90eafd0840ffa499d4fa1ec0108b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4c345c_c38e90eafd0840ffa499d4fa1ec0108b%7Emv2.png",
+    "file": "agency-rayvn-design.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "07c714f5756db85295af50047149f77c4c9a1434d7aa83dc03bc46f90d6607bd"
+  },
+  {
+    "id": "agency-bradbury-brand-design-experts",
+    "name": "Bradbury Brand + Design Experts",
+    "url": "https://bradburybrandexperts.com/portfolio/",
+    "source": "https://bradburybrandexperts.com/wp-content/uploads/2025/09/bradbury-fav-300x300.png",
+    "file": "agency-bradbury-brand-design-experts.webp",
+    "width": 300,
+    "height": 300,
+    "sha256": "2be07bc0fcce42fbc38f566ed0304ae3c1455a4d5cc4c1bda79e429039e6f8ad"
+  },
+  {
+    "id": "agency-mblm",
+    "name": "MBLM",
+    "url": "https://mblm.com/our-work/",
+    "source": "https://mblm.com/apple-touch-icon.png",
+    "file": "agency-mblm.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "b483cbe5c324c18c8ce84577e8a9f87159d792b4342a16cdaf4e5a02213bcfce"
+  },
+  {
+    "id": "agency-varga-girl-design",
+    "name": "Varga Girl Design",
+    "url": "https://www.vargagirldesign.com/",
+    "source": "https://images.squarespace-cdn.com/content/v1/5e9f174c8e37a51279725d88/1612797553066-OVPC64PA2CUQXGO94UNP/favicon.ico?format=100w",
+    "file": "agency-varga-girl-design.webp",
+    "width": 100,
+    "height": 100,
+    "sha256": "3dc9febc21fa0382611a7f29fa7179fdad797e09116815d021aad31d402f43f9"
+  },
+  {
+    "id": "agency-zerotrillion",
+    "name": "Zerotrillion",
+    "url": "https://zerotrillion.com/work/",
+    "source": "https://zerotrillion.com/favicon/apple-touch-icon.png",
+    "file": "agency-zerotrillion.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "67bba94ff37d72053338e82bf5650bb6beaa9f2b4cacbd9d04d8e56e04887238"
+  },
+  {
+    "id": "agency-sagi-co-inc",
+    "name": "Sagi&Co Inc.",
+    "url": "https://www.sagiagency.com/work/",
+    "source": "https://www.sagiagency.com/wp-content/uploads/2024/05/cropped-ICON-192x192.png",
+    "file": "agency-sagi-co-inc.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "8511424dfc65109d05f0a4f7d42801ca8f063482df41304cdcc5618621c64fc3"
+  }
+]

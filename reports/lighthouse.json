@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 100,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -16,42 +16,42 @@
       "runs": [
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1502.45205,
-            "cls": 0.001057394388096694,
+            "lcp": 1954.373425,
+            "cls": 0.0001025585317009114,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.56345,
-            "cls": 0.0010456354731141469,
+            "lcp": 1877.4542999999999,
+            "cls": 0.0001025585317009114,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.4863500000001,
-            "cls": 0.001057394388096694,
+            "lcp": 1803.249225,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -76,7 +76,21 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 360.978,
+            "lcp": 482.93145,
+            "cls": 0.001584038430668651,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 444.16055000000006,
             "cls": 0,
             "tbt": 0
           },
@@ -90,22 +104,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.4466,
-            "cls": 0.001325815019116832,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 361.14914999999996,
-            "cls": 0.001325815019116832,
+            "lcp": 482.20500000000004,
+            "cls": 0.001584038430668651,
             "tbt": 0
           },
           "failures": []
@@ -130,8 +130,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.2186000000002,
-            "cls": 0.0009098989868642659,
+            "lcp": 1353.47115,
+            "cls": 0.003000719312424314,
             "tbt": 0
           },
           "failures": []
@@ -144,8 +144,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.4493,
-            "cls": 0.0009098989868642659,
+            "lcp": 1352.5779,
+            "cls": 0.003000719312424314,
             "tbt": 0
           },
           "failures": []
@@ -158,8 +158,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.4491500000001,
-            "cls": 0.0009098989868642659,
+            "lcp": 1351.0466999999999,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -184,8 +184,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 360.7479,
-            "cls": 0,
+            "lcp": 320.76800000000003,
+            "cls": 0.001025762447830021,
             "tbt": 0
           },
           "failures": []
@@ -198,8 +198,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.41105,
-            "cls": 0.0007670606776989756,
+            "lcp": 321.02975000000004,
+            "cls": 0.001025762447830021,
             "tbt": 0
           },
           "failures": []
@@ -212,116 +212,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.71180000000004,
-            "cls": 0.0007670606776989756,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-branding-agencies-toronto/",
-      "mode": "mobile",
-      "median": {
-        "performance": 98,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 98,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1801.0016999999998,
-            "cls": 0.00165526051092149,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 98,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1801.143,
-            "cls": 0.00165526051092149,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 98,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1801.37925,
-            "cls": 0.00165526051092149,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-branding-agencies-toronto/",
-      "mode": "desktop",
-      "median": {
-        "performance": 100,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.95445,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.97965,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 441.0477921685222,
-            "cls": 0,
+            "lcp": 321.34114999999997,
+            "cls": 0.001025762447830021,
             "tbt": 0
           },
           "failures": []
@@ -332,7 +224,7 @@
       "route": "/blog/top-logo-design-agencies-toronto/",
       "mode": "mobile",
       "median": {
-        "performance": 98,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -346,7 +238,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1801.0308,
+            "lcp": 1727.2453500000001,
             "cls": 0,
             "tbt": 0
           },
@@ -354,28 +246,28 @@
         },
         {
           "scores": {
-            "performance": 98,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1801.296,
-            "cls": 0.001663065744663214,
+            "lcp": 1803.3162000000002,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 98,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1801.1426999999999,
-            "cls": 0,
+            "lcp": 1877.5453499999999,
+            "cls": 0.0001834795444805923,
             "tbt": 0
           },
           "failures": []
@@ -400,8 +292,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 441.75995,
-            "cls": 0.0008254139852026968,
+            "lcp": 483.1289656380251,
+            "cls": 0.001106666885561685,
             "tbt": 0
           },
           "failures": []
@@ -414,8 +306,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 441.71525,
-            "cls": 0.0008254139852026968,
+            "lcp": 483.6657,
+            "cls": 0.001106666885561685,
             "tbt": 0
           },
           "failures": []
@@ -428,8 +320,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 440.91470000000004,
-            "cls": 0.0008254139852026968,
+            "lcp": 442.69010000000003,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -440,7 +332,7 @@
       "route": "/blog/top-corporate-branding-agencies-toronto/",
       "mode": "mobile",
       "median": {
-        "performance": 98,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -454,35 +346,35 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1651.49685,
-            "cls": 0.04343108327814679,
+            "lcp": 1876.98225,
+            "cls": 0.0002018224036899823,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 98,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1801.0953,
-            "cls": 0.04343108327814679,
+            "lcp": 1879.0782000000002,
+            "cls": 0.0002018224036899823,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 98,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1800.8974500000002,
+            "lcp": 1802.2015499999998,
             "cls": 0,
             "tbt": 0
           },
@@ -508,36 +400,36 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 441.4528172576541,
-            "cls": 0.0008089005450485947,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 441.37760000000003,
-            "cls": 0.0008089005450485947,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.93735000000004,
+            "lcp": 442.4276,
             "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 444.0452652281183,
+            "cls": 0.000136876988296413,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 422.60325,
+            "cls": 0.000136876988296413,
             "tbt": 0
           },
           "failures": []
