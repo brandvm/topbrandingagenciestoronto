@@ -1,3 +1,7 @@
+# URL revision
+
+Subpages now use `/logo-design/`, `/corporate/`. Original article URLs redirect to these paths. This routing-only change preserves the previously audited layout, content and assets; the Lighthouse results below describe that design at its earlier paths. Builds, link/canonical/sitemap checks and legacy-comment integration tests are rerun for this revision.
+
 # Acceptance report — article homepage and agency directory
 
 The main supplied article is now `/`. The other 2 supplied article(s) retain their existing URLs and are linked directly from the navbar. `/blog/` is a secondary comparison index in the footer. This site has 3 complete articles, 30 agency profiles, 30 FAQs and 4 content pages; 404 and design pages are additional. The old primary article URL redirects home and is excluded from the sitemap.

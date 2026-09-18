@@ -32,5 +32,10 @@
       "slug": "top-corporate-branding-agencies-toronto",
       "label": "Corporate branding"
     }
-  ]
+  ],
+  "articlePaths": {
+    "top-branding-agencies-toronto": "/",
+    "top-logo-design-agencies-toronto": "/logo-design/",
+    "top-corporate-branding-agencies-toronto": "/corporate/"
+  }
 }
