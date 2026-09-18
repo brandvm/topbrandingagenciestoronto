@@ -1,0 +1,13 @@
+{
+  "site": "topbrandingagenciestoronto",
+  "commit": "0ebf130024d77c27cd0166ae2ed4922789adda1b",
+  "pages": [
+    "/design/"
+  ],
+  "checks": [
+    "Unauthenticated design pages, CSS and fonts are protected",
+    "Authenticated design pages return 200 and noindex",
+    "Login preserves the style-guide return URL",
+    "Guide API accepts the correct page identifier"
+  ]
+}
