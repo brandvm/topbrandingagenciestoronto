@@ -3,45 +3,38 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
+      "cssGzipBytes": 3308,
+      "fontBytes": 67024,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
+      "cssGzipBytes": 3308,
+      "fontBytes": 67024,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
-      "page": "/blog/top-branding-agencies-toronto/index.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
-      "javascriptGzipBytes": 0,
-      "profiles": 10
-    },
-    {
       "page": "/blog/top-corporate-branding-agencies-toronto/index.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
+      "cssGzipBytes": 3308,
+      "fontBytes": 67024,
       "javascriptGzipBytes": 0,
       "profiles": 10
     },
     {
       "page": "/blog/top-logo-design-agencies-toronto/index.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
+      "cssGzipBytes": 3308,
+      "fontBytes": 67024,
       "javascriptGzipBytes": 0,
       "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 4016,
-      "fontBytes": 122080,
+      "cssGzipBytes": 3308,
+      "fontBytes": 67024,
       "javascriptGzipBytes": 0,
-      "profiles": 0
+      "profiles": 10
     }
   ]
 }

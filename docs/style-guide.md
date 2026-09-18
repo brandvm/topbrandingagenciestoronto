@@ -1,9 +1,7 @@
-# Top Branding Agencies Toronto — visual style guide
+# topbrandingagenciestoronto — directory design v3
 
-[Open the protected style guide](https://topbrandingagenciestoronto-staging.hamoun-ce6.workers.dev/design/) · [Screenshot reference board](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
+[Style guide](https://topbrandingagenciestoronto-staging.hamoun-ce6.workers.dev/design/) · [References](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
 
-Creative magazine: Serif/italic masthead · asymmetric features · right contents rail.
+A lilac introduction, a compact service navigation, soft square company tiles and a right-hand contents rail.
 
-The staging-only `design/` directory owns the rendered guide, font specimens, original cover assets and attributed research screenshots. `scripts/postbuild.mjs` copies it into staging only and adds page-specific review anchors. Production builds exclude it.
-
-The guide is a proposed direction for review, not an assertion of design approval or WCAG certification. Original screenshot captures: 18 September 2026. Mobbin captures were downloaded from its supplied full-resolution image URLs; canonical source links are retained in the guide.
+Typography: Instrument Sans + DM Sans; self-hosted sans-serif Google Fonts. The main article is `/`; additional supplied pages appear directly in the navbar. `design/` is staging-only. Company identity assets and fallbacks are documented in `docs/agency-marks.json`.
