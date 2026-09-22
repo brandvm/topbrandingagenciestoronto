@@ -1,39 +1,39 @@
 {
-  "environment": "cloudflare-staging",
+  "environment": "production",
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 4280,
+      "cssGzipBytes": 3344,
       "fontBytes": 67024,
-      "javascriptGzipBytes": 15466,
+      "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 4280,
+      "cssGzipBytes": 3344,
       "fontBytes": 67024,
-      "javascriptGzipBytes": 15466,
+      "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/corporate/index.html",
-      "cssGzipBytes": 4280,
+      "cssGzipBytes": 3344,
       "fontBytes": 67024,
-      "javascriptGzipBytes": 15466,
+      "javascriptGzipBytes": 0,
       "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 4280,
+      "cssGzipBytes": 3344,
       "fontBytes": 67024,
-      "javascriptGzipBytes": 15466,
+      "javascriptGzipBytes": 0,
       "profiles": 10
     },
     {
       "page": "/logo-design/index.html",
-      "cssGzipBytes": 4280,
+      "cssGzipBytes": 3344,
       "fontBytes": 67024,
-      "javascriptGzipBytes": 15466,
+      "javascriptGzipBytes": 0,
       "profiles": 10
     }
   ]
