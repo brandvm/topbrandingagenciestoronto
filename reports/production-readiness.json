@@ -1,7 +1,7 @@
 {
   "site": "topbrandingagenciestoronto",
-  "domain": "topbrandingagenciestoronto.ca",
-  "build": "fc0201766ed9aa3cf99fbcc08b807f56f07ba644",
+  "domain": "www.topbrandingagenciestoronto.ca",
+  "build": "803bb290ec2ea5c3bc78f8c46d4a171557e0e41b",
   "assetsOnly": true,
   "reviewFeatures": false,
   "crawlable": true,
@@ -10,7 +10,7 @@
       "route": "/",
       "title": "Top 10 Branding Agencies in Toronto (2026)",
       "description": "Compare 10 Toronto branding agencies by services, project budgets, portfolios and client feedback. Find the right partner for your next brand project.",
-      "canonical": "https://topbrandingagenciestoronto.ca/",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/",
       "headings": [
         {
           "level": 1,
@@ -162,7 +162,7 @@
       "route": "/blog/",
       "title": "Guides & comparisons | Top Branding Agencies Toronto",
       "description": "Browse Top Branding Agencies Toronto's detailed agency comparisons, practical hiring advice, and project guides.",
-      "canonical": "https://topbrandingagenciestoronto.ca/blog/",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/blog/",
       "headings": [
         {
           "level": 1,
@@ -186,7 +186,7 @@
       "route": "/logo-design/",
       "title": "Top 10 Logo Design Agencies in Toronto (2026)",
       "description": "Explore 10 Toronto logo design agencies. Compare creative expertise, budgets, portfolios and client feedback to shortlist a partner for your brand.",
-      "canonical": "https://topbrandingagenciestoronto.ca/logo-design/",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/logo-design/",
       "headings": [
         {
           "level": 1,
@@ -338,7 +338,7 @@
       "route": "/corporate/",
       "title": "Top 10 Corporate Branding Agencies in Toronto (2026)",
       "description": "Compare 10 Toronto corporate branding agencies by strategy, identity, budgets and client work. Find a partner for your corporate brand or repositioning.",
-      "canonical": "https://topbrandingagenciestoronto.ca/corporate/",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/corporate/",
       "headings": [
         {
           "level": 1,
