@@ -1,0 +1,490 @@
+{
+  "site": "topbrandingagenciestoronto",
+  "domain": "www.topbrandingagenciestoronto.ca",
+  "build": "b6bf6de7737b1bec7cd440ec928d241940366ab2",
+  "assetsOnly": true,
+  "reviewFeatures": false,
+  "crawlable": true,
+  "pages": [
+    {
+      "route": "/",
+      "title": "Top 10 Branding Agencies in Toronto (2026)",
+      "description": "Compare 10 Toronto branding agencies by services, project budgets, portfolios and client feedback. Find the right partner for your next brand project.",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top Branding Agencies in Toronto 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "Biography Design"
+        },
+        {
+          "level": 3,
+          "text": "Blok Design"
+        },
+        {
+          "level": 3,
+          "text": "Bruce Mau Design"
+        },
+        {
+          "level": 3,
+          "text": "Colette"
+        },
+        {
+          "level": 3,
+          "text": "Concrete"
+        },
+        {
+          "level": 3,
+          "text": "Jacknife"
+        },
+        {
+          "level": 3,
+          "text": "Jump Branding & Design"
+        },
+        {
+          "level": 3,
+          "text": "LG2"
+        },
+        {
+          "level": 3,
+          "text": "Pigeon Brands"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess Branding Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. Which Toronto branding agency is the best fit for my business?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much should I budget for a Toronto branding agency?"
+        },
+        {
+          "level": 3,
+          "text": "3. What should a branding proposal include?"
+        },
+        {
+          "level": 3,
+          "text": "4. Do I need a full rebrand or just a brand refresh?"
+        },
+        {
+          "level": 3,
+          "text": "5. How do I evaluate an agency’s portfolio beyond the logos?"
+        },
+        {
+          "level": 3,
+          "text": "6. Should I hire one agency for branding and website design?"
+        },
+        {
+          "level": 3,
+          "text": "7. Which agencies should restaurants and consumer brands consider?"
+        },
+        {
+          "level": 3,
+          "text": "8. How far before launch should I hire a branding agency?"
+        },
+        {
+          "level": 3,
+          "text": "9. How much weight should I give online agency ratings?"
+        },
+        {
+          "level": 3,
+          "text": "10. What should I clarify before choosing an agency?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top Logo Design Agencies in Toronto (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Corporate Branding Agencies in Toronto (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "title": "Guides & comparisons | Top Branding Agencies Toronto",
+      "description": "Browse Top Branding Agencies Toronto's detailed agency comparisons, practical hiring advice, and project guides.",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/blog/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Find the right agency."
+        },
+        {
+          "level": 2,
+          "text": "Top Branding Agencies in Toronto (2026)"
+        },
+        {
+          "level": 2,
+          "text": "Top Logo Design Agencies in Toronto (2026)"
+        },
+        {
+          "level": 2,
+          "text": "Top 10 Corporate Branding Agencies in Toronto (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/logo-design/",
+      "title": "Top 10 Logo Design Agencies in Toronto (2026)",
+      "description": "Explore 10 Toronto logo design agencies. Compare creative expertise, budgets, portfolios and client feedback to shortlist a partner for your brand.",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/logo-design/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top Logo Design Agencies in Toronto 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Toronto Logo Design Agencies: Full Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "Strano + Pettigrew Design Associates"
+        },
+        {
+          "level": 3,
+          "text": "Jacknife"
+        },
+        {
+          "level": 3,
+          "text": "Rayvn Design"
+        },
+        {
+          "level": 3,
+          "text": "Colette"
+        },
+        {
+          "level": 3,
+          "text": "Varga Girl Design"
+        },
+        {
+          "level": 3,
+          "text": "Bradbury Brand + Design Experts"
+        },
+        {
+          "level": 3,
+          "text": "MBLM"
+        },
+        {
+          "level": 3,
+          "text": "Zerotrillion"
+        },
+        {
+          "level": 3,
+          "text": "Yield Branding"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match: Logo Design Agencies by Project"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess Logo Design Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. Which logo design agency in Toronto is the best overall?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much do Toronto logo design agencies charge?"
+        },
+        {
+          "level": 3,
+          "text": "3. Does an agency’s minimum budget cover custom logo design?"
+        },
+        {
+          "level": 3,
+          "text": "4. Should I commission logo design or a full visual identity?"
+        },
+        {
+          "level": 3,
+          "text": "5. Should I refresh my existing logo or replace it completely?"
+        },
+        {
+          "level": 3,
+          "text": "6. How should I compare portfolios from logo design companies?"
+        },
+        {
+          "level": 3,
+          "text": "7. What files should I request for custom logo design?"
+        },
+        {
+          "level": 3,
+          "text": "8. How long should I allow for a logo design and identity project?"
+        },
+        {
+          "level": 3,
+          "text": "9. How much weight should I give agency ratings?"
+        },
+        {
+          "level": 3,
+          "text": "10. What should I prepare before contacting an agency?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top Branding Agencies in Toronto (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Corporate Branding Agencies in Toronto (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/corporate/",
+      "title": "Top 10 Corporate Branding Agencies in Toronto (2026)",
+      "description": "Compare 10 Toronto corporate branding agencies by strategy, identity, budgets and client work. Find a partner for your corporate brand or repositioning.",
+      "canonical": "https://www.topbrandingagenciestoronto.ca/corporate/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top 10 Corporate Branding Agencies in Toronto 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "Strano + Pettigrew Design Associates"
+        },
+        {
+          "level": 3,
+          "text": "Takt"
+        },
+        {
+          "level": 3,
+          "text": "Colette"
+        },
+        {
+          "level": 3,
+          "text": "Yield Branding"
+        },
+        {
+          "level": 3,
+          "text": "Jacknife"
+        },
+        {
+          "level": 3,
+          "text": "Bruce Mau Design"
+        },
+        {
+          "level": 3,
+          "text": "BrandBourg Marketing & Design"
+        },
+        {
+          "level": 3,
+          "text": "Rayvn Design"
+        },
+        {
+          "level": 3,
+          "text": "Sagi&Co Inc."
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess the Best Branding Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. Which corporate branding agency in Toronto should I shortlist first?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much should I budget for corporate branding in Toronto?"
+        },
+        {
+          "level": 3,
+          "text": "3. What should a corporate branding proposal include?"
+        },
+        {
+          "level": 3,
+          "text": "4. How long will a corporate branding project take?"
+        },
+        {
+          "level": 3,
+          "text": "5. Should branding and website work be handled by the same agency?"
+        },
+        {
+          "level": 3,
+          "text": "6. How do I compare portfolios without being distracted by famous client names?"
+        },
+        {
+          "level": 3,
+          "text": "7. Which agency should I consider for a merger or multiple company brands?"
+        },
+        {
+          "level": 3,
+          "text": "8. Do I need a Toronto-based agency, or is a Toronto office enough?"
+        },
+        {
+          "level": 3,
+          "text": "9. How much weight should I give Clutch, Google and DesignRush ratings?"
+        },
+        {
+          "level": 3,
+          "text": "10. What should I ask before choosing a corporate branding agency?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top Branding Agencies in Toronto (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top Logo Design Agencies in Toronto (2026)"
+        }
+      ]
+    }
+  ]
+}
